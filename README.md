@@ -1,6 +1,5 @@
 
-# Sight-Engineering
-Final Project
+#Rock-Paper-Scissors-Game
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -44,7 +43,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Copyright @ 2021 Rock-Paper-Scissors-Game All Right Reserved By Yasiru Dahanayaka
+Copyright @ 2021 Rock Paper Scissors Game All Right Reserved By Yasiru Dahanayaka
 
 
 
