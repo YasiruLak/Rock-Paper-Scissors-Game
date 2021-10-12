@@ -9,6 +9,7 @@ Final Project
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/yasiru-dahanayaka-8bb47319a)
 
+![Screenshot (3)](https://user-images.githubusercontent.com/80274745/136919181-6efd448f-d323-4060-86a5-36405945b2ac.png)
 
 
 <!-- USAGE EXAMPLES -->
